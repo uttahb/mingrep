@@ -1,1 +1,1 @@
-/home/appblox/exps/rust/mingrep/target/debug/mingrep: /home/appblox/exps/rust/mingrep/src/main.rs
+/home/edo/exps/rust/mingrep/target/debug/mingrep: /home/edo/exps/rust/mingrep/src/lib.rs /home/edo/exps/rust/mingrep/src/main.rs
